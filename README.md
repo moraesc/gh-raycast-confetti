@@ -2,6 +2,8 @@
 
 A browser extension for Chrome and Firefox that automatically triggers Raycast confetti when your GitHub pull request passes CI checks!
 
+Test
+
 ## Features
 
 - 🎊 Automatically detects when CI checks pass on GitHub PRs
